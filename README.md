@@ -10,7 +10,7 @@ And his Twitch Channel<br/>
 https://www.twitch.tv/hector_pulido_<br/>
 
 ## HOW TO USE
-Open it on unity 2017.3 or greater, and play around with the project.
+Open it on unigine 2.16.0.1 or greater, and play around with the project.
 
 
 <div align="center">
